@@ -5,6 +5,9 @@ This is a quick POC to show how Outlook Add-In uses backend service to handle em
    
    https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/outlook-quickstart?tabs=yeomangenerator
 
+![image](https://github.com/freistli/SummaryAddIn/assets/8623897/3e5364af-abe0-40ba-a7b9-4e4a8d9613d1)
+
+
    It can be tested in Classic Outlook, and Web Outlook.
    
 3. If you are in debug phase, enable CORS for https://localhost:3000 on the service endpoint.
@@ -16,6 +19,7 @@ The icon in Web Outlook:
 The Icon in Classic Outlook:
 
 <img width="224" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/3c842d0c-9645-4b99-bd1a-d68d122bd189">
+
 
 The TaskPane UI:
 
