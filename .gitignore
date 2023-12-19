@@ -2,3 +2,4 @@ node_modules
 dist
 config.json
 manifest.azure.xml
+manifest.local.xml

@@ -28,6 +28,12 @@
         <option value="">Select...</option>
         <option value="English" selected>English</option>
         <option value="SimpleChinese">Chinese</option>
+        <option value="Portuguese">Portuguese</option>
+        <option value="Spanish">Spanish</option>
+        <option value="German">German</option>
+        <option value="Italian">Italian</option>
+        <option value="Japanese">Japanese</option>
+        <option value="Korean">Korean</option>        
         <option value="French">French</option>
         <!-- Add more options as needed -->
     </select>
@@ -44,6 +50,12 @@
                     <span class="ms-Button-label" style="margin: 10px;">Load</span>
                 </div>
             </td>
+         
+                <td>
+                <div role="button" id="translate" class="ms-welcome__action ms-Button ms-Button--hero ms-font-l">
+                    <span class="ms-Button-label" style="margin: 10px;">Translate</span>
+                </div>
+            </td>
             <td>
                 <div role="button" id="summary" class="ms-welcome__action ms-Button ms-Button--hero ms-font-l">
                     <span class="ms-Button-label" style="margin: 10px;">Summary</span>
@@ -51,16 +63,15 @@
             </td>
             </tr>
         </table>
-        
-        
-        <b>Title</b>
-        <p><label id="item-subject" ></label></p>
-        <b>Content</b>
-        <p><textarea id="item-content" style="width: 300px; height: 300px"></textarea></p>
-        <b>Summary Result</b>
-        <p><textarea id="item-summarize" style="width: 300px; height: 300px"></textarea></p>
-        
     </main>
+    
+    <div class="item-container">
+    <p><label id="item-subject" class="ms-font-l"></label></p>
+    <b>Content</b>
+    <p><textarea id="item-content" class="ms-font-m"></textarea></p>
+    <b>Summary Result</b>
+    <p><textarea id="item-summarize" class="ms-font-m"></textarea></p>
+    </div>
 </body>
 
 </html>

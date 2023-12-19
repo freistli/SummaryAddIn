@@ -78,3 +78,15 @@
 b {
     font-weight: bold;
 }
+.item-container
+{
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#item-content, #item-summarize {  
+    flex: 1 0 0;
+    width: 90%;
+    height: 230px;
+    }
