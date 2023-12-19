@@ -23,7 +23,8 @@ The Icon in Classic Outlook:
 
 The TaskPane UI:
 
-![image](https://github.com/freistli/SummaryAddIn/assets/8623897/6de71219-bfdf-47ac-998f-04461a4b17d1)
+<img width="355" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/a998f7f6-3ef1-49fc-b175-2584cf4de934">
+
 
 
 
