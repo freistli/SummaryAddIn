@@ -4,7 +4,7 @@
 
 [Deploy](https://github.com/freistli/SummaryAddIn/blob/main/README.md#deploy)
 
-[Publish](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish)
+[Publish](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish-to-organization)
 
 
 ## Setup
