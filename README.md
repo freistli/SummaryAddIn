@@ -1,10 +1,10 @@
 # SummaryAddIn
 
-[Setup](https://github.com/freistli/SummaryAddIn/blob/main/README.md#setup)
+[Setup and test locally](https://github.com/freistli/SummaryAddIn/blob/main/README.md#setup)
 
-[Deploy](https://github.com/freistli/SummaryAddIn/blob/main/README.md#deploy)
+[Build and deploy to static web host](https://github.com/freistli/SummaryAddIn/blob/main/README.md#deploy)
 
-[Publish](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish-to-organization)
+[Publish to organization](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish-to-organization)
 
 
 ## Setup
