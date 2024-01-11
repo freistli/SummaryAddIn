@@ -16,10 +16,11 @@ This is a quick POC to show how Outlook Add-In uses backend service to handle em
 
 ![image](https://github.com/freistli/SummaryAddIn/assets/8623897/3e5364af-abe0-40ba-a7b9-4e4a8d9613d1)
 
-
-   It can be tested in Classic Outlook, and Web Outlook.
+  This add in uses the same project structure, and Taskpane.js contains the main logic. 
+  
+  The Add-In can be tested in Classic Outlook, and Web Outlook.
    
-3. If you are in debug phase, enable CORS for https://localhost:3000 on the service endpoint.
+2. If you are in debug phase, enable CORS for https://localhost:3000 on the service endpoint.
 
 The icon in Web Outlook:
 
@@ -47,6 +48,16 @@ Alternatively, you can also run "npm run build", and put the "dist" folder conte
 Login as Global Admin or Application Admin on https://admin.microsoft.com , follow this guide to publish this AddIn manifest.xml as Integrated App in your organization, it may take up to 24 hours to show up for clients:
 
 https://learn.microsoft.com/en-us/microsoft-365/admin/manage/office-addins?view=o365-worldwide#deploy-your-office-add-ins
+
+After deployment, the admin site can display:
+
+![image](https://github.com/freistli/SummaryAddIn/assets/8623897/2dfa5f83-3b7e-4410-a187-d3d8f5abf543)
+
+
+Click the Integrated App item, can update or remove it:
+
+![image](https://github.com/freistli/SummaryAddIn/assets/8623897/be7f3f9c-2f4d-40cb-8f02-513170ea61de)
+
 
 About more information about the publish process and related requirement, can read:
 
