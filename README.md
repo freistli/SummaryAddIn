@@ -18,7 +18,7 @@ This is a quick POC to show how Outlook Add-In uses backend service to handle em
 
   This add in uses the same project structure, and Taskpane.js contains the main logic. 
   
-  The Add-In can be tested in Classic Outlook, and Web Outlook.
+  The Add-In can be tested in Classic Outlook, New Outlook, and Web Outlook.
    
 2. If you are in debug phase, enable CORS for https://localhost:3000 on the service endpoint.
 
