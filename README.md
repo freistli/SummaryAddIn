@@ -1,5 +1,12 @@
 # SummaryAddIn
 
+[Setup](https://github.com/freistli/SummaryAddIn/blob/main/README.md#setup)
+
+[Deploy](https://github.com/freistli/SummaryAddIn/blob/main/README.md#deploy)
+
+[Publish](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish)
+
+
 ## Setup
 This is a quick POC to show how Outlook Add-In uses backend service to handle email content.
 
