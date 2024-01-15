@@ -65,3 +65,18 @@ https://learn.microsoft.com/en-us/office/dev/add-ins/publish/publish
 
 https://learn.microsoft.com/en-us/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps?view=o365-worldwide
 
+## Publish as Outlook Mobile Addin
+
+To support Mobile (IOS) device, it requires to define **MobileFormFactor** in manifest.xml, the guideline is:
+
+https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-mobile-addins
+
+Pay attent to the [Difference](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-mobile-addins#whats-different-on-mobile) section.
+
+Besides this, ensure the **resid** is decalred in **Resources**. 
+
+There is a good discussion and reference in stackoverflow 
+
+https://stackoverflow.com/questions/51641999/why-wont-this-xml-file-with-mobileformfactor-for-office-addin-work
+
+The manifest.xml in this project is also updated to support Mobile and PC Outlook clients.
