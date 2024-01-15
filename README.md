@@ -1,12 +1,12 @@
 # SummaryAddIn
 
-[Setup and test locally](https://github.com/freistli/SummaryAddIn/blob/main/README.md#setup)
+[Setup and test locally](https://github.com/freistli/SummaryAddIn#setup)
 
-[Build and deploy to static web host](https://github.com/freistli/SummaryAddIn/blob/main/README.md#deploy)
+[Build and deploy to static web host](https://github.com/freistli/SummaryAddIn#deploy)
 
-[Publish to organization](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish-to-organization)
+[Publish to organization](https://github.com/freistli/SummaryAddIn#publish-to-organization)
 
-[Publish as Outlook Mobile AddIn](https://github.com/freistli/SummaryAddIn?tab=readme-ov-file#publish-as-outlook-mobile-addin)
+[Publish as Outlook Mobile AddIn](https://github.com/freistli/SummaryAddIn#publish-as-outlook-mobile-addin)
 
 ## Setup
 This is a quick POC to show how Outlook Add-In uses backend service to handle email content.
