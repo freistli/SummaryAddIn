@@ -6,6 +6,7 @@
 
 [Publish to organization](https://github.com/freistli/SummaryAddIn/blob/main/README.md#publish-to-organization)
 
+[Publish as Outlook Mobile AddIn](https://github.com/freistli/SummaryAddIn?tab=readme-ov-file#publish-as-outlook-mobile-addin)
 
 ## Setup
 This is a quick POC to show how Outlook Add-In uses backend service to handle email content.
@@ -80,3 +81,10 @@ There is a good discussion and reference in stackoverflow
 https://stackoverflow.com/questions/51641999/why-wont-this-xml-file-with-mobileformfactor-for-office-addin-work
 
 The manifest.xml in this project is also updated to support Mobile and PC Outlook clients.
+
+
+<img width="218" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/eb5e0ab8-de93-4e88-985f-f2398bd6a322">
+
+
+<img width="218" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/191e1fb7-5535-401b-ae67-92ca3aa08f78">
+
