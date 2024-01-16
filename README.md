@@ -23,11 +23,11 @@ This is a quick POC to show how Outlook Add-In uses backend service to handle em
    
 2. If you are in debug phase, enable CORS for https://localhost:3000 on the service endpoint.
 
-The icon in Web Outlook:
+The menu layout in **Web Outlook** and **New Outlook**:
 
 <img width="361" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/b06c4266-f819-4348-9514-d8af5b23a407">
 
-The Icon in Classic Outlook:
+The menu layout in **Classic Outlook**:
 
 <img width="224" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/3c842d0c-9645-4b99-bd1a-d68d122bd189">
 
