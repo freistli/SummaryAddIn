@@ -72,7 +72,7 @@ To support Mobile (IOS) device, it requires to define **MobileFormFactor** in ma
 
 https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-mobile-addins
 
-Pay attent to the [Difference](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-mobile-addins#whats-different-on-mobile) section.
+Pay attention to the [Difference](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-mobile-addins#whats-different-on-mobile) section.
 
 Besides this, ensure the **resid** is decalred in **Resources**. 
 
