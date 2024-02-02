@@ -50,14 +50,15 @@ Login as Global Admin or Application Admin on https://admin.microsoft.com , foll
 
 https://learn.microsoft.com/en-us/microsoft-365/admin/manage/office-addins?view=o365-worldwide#deploy-your-office-add-ins
 
-After deployment, the admin site can display:
+### After deployment, the admin site can display:
 
-![image](https://github.com/freistli/SummaryAddIn/assets/8623897/2dfa5f83-3b7e-4410-a187-d3d8f5abf543)
+<img width="400" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/2dfa5f83-3b7e-4410-a187-d3d8f5abf543">
 
 
-Click the Integrated App item, can update or remove it:
+### Click the Integrated App item, can update or remove it:
 
-![image](https://github.com/freistli/SummaryAddIn/assets/8623897/be7f3f9c-2f4d-40cb-8f02-513170ea61de)
+
+<img width="400" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/be7f3f9c-2f4d-40cb-8f02-513170ea61de">
 
 
 About more information about the publish process and related requirement, can read:
@@ -82,9 +83,35 @@ https://stackoverflow.com/questions/51641999/why-wont-this-xml-file-with-mobilef
 
 The manifest.xml in this project is also updated to support Mobile and PC Outlook clients.
 
-
 <img width="218" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/eb5e0ab8-de93-4e88-985f-f2398bd6a322">
 
 
 <img width="218" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/191e1fb7-5535-401b-ae67-92ca3aa08f78">
+
+
+## Debug
+
+For Windows 11 environment, suggest to follow this article:
+
+https://learn.microsoft.com/en-us/office/dev/add-ins/testing/debug-desktop-using-edge-chromium
+
+Note: It is possible to use remote URL to replace localhost:3000 in manifest.xml and continou using local debugging. If the breakpoint cannot be hit, can use the Edge Inspact to set breakpoints and debug it:
+
+
+<img width="218" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/d4e6fb4a-5260-485a-baf6-d225fe88ab57">
+
+
+
+<img width="948" alt="image" src="https://github.com/freistli/SummaryAddIn/assets/8623897/350db2b0-530c-4695-b624-fc1139e68e69">
+
+
+
+
+
+
+If hits dev enviornment issue (Yoeman Office debug or build), can raise issues to:
+
+
+
+https://github.com/OfficeDev/generator-office
 
