@@ -8,6 +8,8 @@
 
 [Publish as Outlook Mobile AddIn](https://github.com/freistli/SummaryAddIn#publish-as-outlook-mobile-addin)
 
+[Publish as Outlook Mobile AddIn](https://github.com/freistli/SummaryAddIn#debug)
+
 ## Setup
 This is a quick POC to show how Outlook Add-In uses backend service to handle email content.
 
